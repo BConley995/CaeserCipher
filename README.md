@@ -1,6 +1,6 @@
 # Caesar Cipher Encryption and Decryption
 
-![Caesar Cipher Logo](caesar_logo.png)
+![Caesar Cipher Logo](caesar_logo.jpg)
 
 A simple Python script that implements the Caesar cipher encryption and decryption. The Caesar cipher is a substitution cipher that shifts the letters of the alphabet by a certain amount to encrypt or decrypt a message.
 
